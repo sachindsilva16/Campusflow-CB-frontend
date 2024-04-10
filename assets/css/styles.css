@@ -127,16 +127,16 @@ button {
   padding: 4.5rem 0 2rem;
 }
 
-.section-title {
+.section__title {
   font-size: var(--h2-font-size);
   margin-bottom: 1rem;
 }
 
-.section-title span {
+.section__title span {
   color: var(--second-color);
 }
 
-.section-subtitle {
+.section__subtitle {
   display: block;
   font-size: var(--small-font-size);
   color: var(--second-color);
